@@ -14,7 +14,7 @@ public class Main {
         panel.setBackground(new Color(255,255,0));
         panel.setBackground(Color.BLUE);
         //3 create components
-        JLabel label = new JLabel("Hello World");
+        JLabel label = new JLabel("Goodbye World");
         JButton button = new JButton("Hello nobody!");
         JTextField textField = new JTextField(10);
         //4 add components to the panel
