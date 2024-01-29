@@ -8,10 +8,10 @@ public class Main {
     public static void main(String[] args) {
         //1 create a frame
         JFrame frame = new JFrame();
-        frame.setSize(500,500);
+        frame.setSize(200,500);
         // 2 create a panel
         JPanel panel = new JPanel();
-        panel.setBackground(new Color(225,0,0));
+        panel.setBackground(new Color(255,255,0));
         panel.setBackground(Color.BLUE);
         //3 create components
         JLabel label = new JLabel("Hello World");
